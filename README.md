@@ -1,6 +1,7 @@
 # light-player
 
-See it in action:
+[See it in action](https://github.com/user-attachments/assets/614779df-dfb3-4a71-81c4-ba0023e79ed5
+) (direct link to the video below because the embed seems to be playing up)
 
 https://github.com/user-attachments/assets/614779df-dfb3-4a71-81c4-ba0023e79ed5
 

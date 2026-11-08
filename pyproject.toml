@@ -1,0 +1,27 @@
+[project]
+name = "light-player"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "zeyus", email = "dev@zeyus.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "mido>=1.3.3",
+    "python-osc>=1.10.2",
+    "python-rtmidi",
+]
+
+[project.scripts]
+light-player = "light_player:main"
+
+[build-system]
+requires = ["uv_build>=0.13.6,<0.14.0"]
+build-backend = "uv_build"
+
+[tool.uv.sources]
+python-rtmidi = { path = "../python-rtmidi" }
+
+# [tool.uv.sources]
+# python-rtmidi = { path = "../python-rtmidi" }

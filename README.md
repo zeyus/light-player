@@ -1,6 +1,9 @@
 # light-player
 
-https://github.com/user-attachments/assets/bbba745f-d2c1-4722-9755-b9261d16ede7
+See it in action:
+
+https://github.com/user-attachments/assets/614779df-dfb3-4a71-81c4-ba0023e79ed5
+
 
 
 Play your home assistant lights with a midi interface
